@@ -1,0 +1,57 @@
+
+html {
+  background-color: rgb(235, 255, 248);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+  padding: 15px 15px 15px 15px;
+  margin: 15px;
+  background-color: rgb(216, 243, 243);
+  border-radius: 5%;
+}
+
+#navbar {
+  overflow: hidden;
+}
+
+#main_title {
+  color:rgb(58, 13, 91)
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  float: left;
+  padding: 10px 10px;
+  color:rgb(58, 13, 91)
+}
+
+#nikki_img {
+  border-radius: 50%;
+  margin: 30px auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  padding: 10px 30px;
+  margin: 5px 5px;
+}
+
+li a:hover {
+  border-radius: 15%;
+  background-color: rgba(93, 201, 201, 0.606);
+}
