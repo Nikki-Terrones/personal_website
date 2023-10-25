@@ -3,7 +3,7 @@
 
 A three page statice personal website written in HTML and CSS only for public.
 
-Pleave take a look [here](https://github.com/Nikki-Terrones/personal_website.git).
+Please take a look [here](https://github.com/Nikki-Terrones/personal_website.git).
 
 
 
